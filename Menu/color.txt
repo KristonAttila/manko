@@ -1,0 +1,11 @@
+    #bbbbbb;
+    #373737 -> #606060
+    #ffa84c -> #ff7b0d
+    #444;
+	#8fc400 -> #80aa00
+	#fff;
+	#202020;
+	#000 !important
+	#4f4f4f !important
+
+

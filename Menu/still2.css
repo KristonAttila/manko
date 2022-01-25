@@ -1,0 +1,49 @@
+*{
+    padding: 20px;
+    margin: 0 auto;
+    border: 0;
+    box-sizing: border-box;
+    max-width: 1920px;
+}
+body{
+    background: grey;
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    background: orange;
+}
+.nav::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.nav ul{
+    list-style: none;
+}
+.nav>ul>li{
+    float: left;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.nav ul li a:hover{
+    background: grey;
+}
+.has_submenu::after{
+    content: "⯆";
+    color: white;
+    top: 17,8px;
+    right: 0;
+    position: absolute;
+
+}
+.has_submenu:hover .submenu{
+    display: block;
+}
+
+.content p{
+    line-height: 1,5;
+}

@@ -1,0 +1,8 @@
+1:Név:Hely:Hossz (méter):Átadás éve
+2:Szabadság híd:Budapest:175:1896
+3:Erzsébet híd:Budapest:290:1964
+4:Pentele híd:Dunaújváros:308:2007
+5:Megyeri híd:Budapest:300:2008
+6:Bertalan híd:Szeged:144:1979
+7:Zalalövői völgyhíd:Zalalövő:45:2000
+8:Szent István völgyhíd:Veszprém:185:1937

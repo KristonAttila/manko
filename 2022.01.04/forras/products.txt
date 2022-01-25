@@ -1,0 +1,6 @@
+No;Name;Price;Quantity
+1;cékla;870;150
+2;vöröshagyma;347;278
+3;karalábé;520;271
+4;brokkoli;890;230
+5;paprika;670;87

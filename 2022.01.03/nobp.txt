@@ -1,0 +1,4 @@
+4;Pentele híd;Dunaújváros;308
+6;Bertalan híd;Szeged;144
+7;Zalalövői völgyhíd;Zalalövő;45
+8;Szent István völgyhíd;Veszprém;185
